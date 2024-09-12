@@ -1,0 +1,192 @@
+A:link {
+	color: #0000FF;
+} 
+
+A:Visited  {
+      color: #003399;
+}
+
+A:hover {
+      color : #FF0000;
+}
+
+
+#menuitem A:link {
+color: white;
+text-decoration: none;
+}
+
+#menuitem A:Visited {
+color: #FFFFFF;
+text-decoration: none;
+}
+
+#menuitem A:hover { 
+color : #F0E68C; 
+text-decoration : underline; }
+
+
+#menuitemviv A:link {
+color: blue;
+text-decoration: none;
+}
+
+.white  {
+	font-size : 9pt;
+	color : #FFFFFF;
+	font-weight : bold;
+	font-family : Arial, Helvetica, San Serif;
+}
+
+.yellow  {
+	font-family : Arial, Helvetica, San Serif;
+	font-size : 9pt;
+	font-weight : bold;
+	color : #F0E68C;
+}
+
+.special  {
+	font-family : Verdana, Arial, San Serif;
+	font-size : 10pt;
+	font-weight : bold;
+      background-color : #CCCCCC;
+}
+
+.small  {
+	font-family : Arial, Helvetica, San Serif;
+	font-size : 9pt;
+	font-weight : bold;
+}
+
+
+.searchinput, .searchinput SELECT, .searchinput INPUT  {
+	font-size : 8pt;
+}
+
+td  {
+	font-size : 9pt;
+	font-family : Arial, Helvetica, San Serif;
+}
+
+h3 {
+	font-size : 13pt;
+	font-family : Arial, Helvetica, San Serif;
+}
+
+.gray  {
+	font-size : 8pt;
+	color : #808080;
+}
+
+.nav  {
+	font-size : 9pt;
+	color : #FFFFFF;
+	font-weight : bold;
+	font-family : Arial, Helvetica, San Serif;
+}
+
+.viv  {
+	font-size : 9pt;
+	color : #0000FF;
+	font-family : Arial, Helvetica, San Serif;
+}
+
+.viv-li  {
+      margin-left : -20px; 
+}
+
+.nav2  {
+	font-size : 8pt;
+	color : #FFFFFF;
+	font-weight : bold;
+	font-family : Arial, Helvetica, San Serif;
+}
+
+
+.nwslink  {
+	font-size : 9pt;
+	color: Black;
+	text-decoration: none;
+	font-family : Arial, Helvetica, San Serif;
+}
+
+.srhwhite  {
+	font-size : 9pt;
+	text-decoration: none;
+	color : #FFFFFF;
+	font-weight : bold;
+	font-family : Arial, Helvetica, San Serif;
+}
+
+/* ----------------------------------------------------------------- */
+/* The following link class (i.e. menu) is for the the menu items    */
+/* ----------------------------------------------------------------- */
+
+A.menu:link {
+	text-decoration: none;
+      color: #FFFFFF;
+}
+
+A.menu:visited {
+      color: #FFFFFF;
+	text-decoration: none;
+}
+
+A.menu:hover { 
+color : #F0E68C; 
+text-decoration : underline; 
+}
+/* ----------------------------------------------------------------- */
+
+
+
+/* ----------------------------------------------------------------- */
+/* The following link class (i.e. homepagelinks) is for 
+   all the other links on the homepage                               */
+/* ----------------------------------------------------------------- */
+
+A.homepagelinks:link {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+A.homepagelinks:Visited {
+      color: #003399;
+      text-decoration: none;
+}
+
+A.homepagelinks:hover { 
+      color : #FF0000;
+      text-decoration : underline;
+}
+
+/* ----------------------------------------------------------------- */
+
+/* ----------------------------------------------------------------- */
+/* The following link class (i.e. notifications) is for 
+ *    notifications and banners denoting caveats.                    */
+/* ----------------------------------------------------------------- */
+p.experiment{
+	color: #FF0000;
+	position:relative;
+	left:225px;
+/*	text-align: center;*/
+	text-transform: uppercase;
+        font-family : Arial, Helvetica, San Serif;
+	font-size: 2em;
+}
+
+
+p.FAQ{
+        color: #FF0000;
+        position:relative;
+        left:0px;
+/*      text-align: center;*/
+        text-transform: uppercase;
+        font-family : Arial, Helvetica, San Serif;
+        font-size: 2em;
+}
+	
+
+
+
